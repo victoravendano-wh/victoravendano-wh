@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![Workflow Status](https://github.com/victoravendano-wh)](https://github.com/victoravendano-wh)
-
 <!--
 **victoravendano-wh/victoravendano-wh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
